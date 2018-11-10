@@ -1,19 +1,45 @@
 {
-  "version" : "1",
-  "name" : "The name of your Listz.",
-  "description" : "The description of your Listz.",
-  "image" : "The URL of the image that will represent your Listz.",
-
-  "items" : [
+  "version": "1",
+  "name": "Javascript Backend Frameworks",
+  "description": "A collection of backend frameworks written in javascript..",
+  "image": "https://listz.github.io/js-backend/media/javascript.png",
+  "items": [
     {
-      "name" : "The name of a list-item",
-      "description" : "The description of a list-item",
-      "image" : "The URL of an image that will represent your list-item. Preferably a link to a GitHub repository.",
-      "link" : "The URL that users will be redirected to if they wish to know more about your list-item.",
-      "tags" : [
-        "Tags", "that", "describe", "your", "list", "item."
+      "name": "Hoodie",
+      "description": "A generic backend with a client API for Offline First applications.",
+      "image": "https://listz.github.io/js-backend/media/hoodie.png",
+      "link": "https://github.com/hoodiehq/hoodie",
+      "tags": [
+        "dog",
+        "generic",
+        "API"
+      ]
+    },
+    {
+      "name": "LoopBack",
+      "description": "a highly-extensible, open-source Node.js framework.",
+      "image": "https://listz.github.io/js-backend/media/loopback.svg",
+      "link": "https://github.com/strongloop/loopback",
+      "tags": [
+        "generic",
+        "extensible",
+        "strongloop",
+        "dynamic",
+        "API"
+      ]
+    },
+    {
+      "name": "Express",
+      "description": "Fast, unopinionated, minimalist web framework.",
+      "image": "https://listz.github.io/js-backend/media/javascript.png",
+      "link": "https://github.com/expressjs/express",
+      "tags": [
+        "fast",
+        "unopinionated",
+        "minimalist",
+        "testing",
+        "API"
       ]
     }
-
   ]
 }
